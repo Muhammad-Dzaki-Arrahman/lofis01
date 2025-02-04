@@ -33,7 +33,8 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu }) {
                             <div className="header__body d-flex justify-content-between">
                                 <div className="header__logo">
                                     <Link href="/">
-                                        <img id="site-logo" src="/assets/images/logo.png" alt="Monteno" width={217} height={50} data-retina="assets/images/logo@2x.png" data-width={217} data-height={50} />
+                                        {/* <img id="site-logo" src="/assets/images/logo.png" alt="Monteno" width={217} height={50} data-retina="assets/images/logo@2x.png" data-width={217} data-height={50} /> */}
+                                        LOFIS
                                     </Link>
                                 </div>
                                 <div className="header__right">
