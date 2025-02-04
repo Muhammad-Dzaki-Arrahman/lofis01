@@ -21,14 +21,14 @@ export default function Home2() {
                 <HeroSlider2 />
                 <Speciality />
                 <AboutUs2 />
-                <Montono2 />
+                {/* <Montono2 /> coollection */}
                 <RoadMap2 />
-                <Portfolio />
+                {/* <Portfolio /> */}
                 <Team2 />
                 <Counter2 />
-                <Testimonial2 />
+                {/* <Testimonial2 /> */}
                 <FAQ2 />
-                <Blog2 />
+                {/* <Blog2 /> */}
                 <Partners />
             </Layout>
         </>
