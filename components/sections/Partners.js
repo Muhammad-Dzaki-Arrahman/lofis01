@@ -34,6 +34,7 @@ export default function Partners() {
         <div className="container">
           <div className="row">
             <div className="col-12">
+              <h2>Our Partners</h2>
               <div
                 className="partners__body style-2"
                 data-aos="fade-up"
