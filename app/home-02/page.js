@@ -27,7 +27,7 @@ export default function Home2() {
                 <Team2 />
                 <Counter2 />
                 {/* <Testimonial2 /> */}
-                <FAQ2 />
+                {/* <FAQ2 /> */}
                 {/* <Blog2 /> */}
                 <Partners />
             </Layout>

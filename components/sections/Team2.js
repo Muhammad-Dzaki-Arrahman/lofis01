@@ -41,17 +41,14 @@ export default function Team2() {
                 data-aos-duration={800}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/founder.jpg" alt="LoFiS" />
+                  <img src="/assets/images/team/img_1.jpg" alt="Monteno" />
                   <div className="social">
                     <p>
                       <Link href="#">
+                        <i className="fab fa-telegram" />
+                      </Link>
+                      <Link href="#">
                         <i className="fab fa-twitter" />
-                      </Link>
-                      <Link href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </Link>
-                      <Link href="#">
-                        <i className="fab fa-github" />
                       </Link>
                     </p>
                   </div>
@@ -71,15 +68,15 @@ export default function Team2() {
                 data-aos-duration={1200}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_1.jpg" alt="LoFiS" />
+                  <img src="/assets/images/team/img_2.jpg" alt="Monteno" />
                   <div className="social">
                     <p>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                      <a href="#">
+                      <Link href="#">
                         <i className="fab fa-telegram" />
-                      </a>
+                      </Link>
+                      <Link href="#">
+                        <i className="fab fa-twitter" />
+                      </Link>
                     </p>
                   </div>
                 </div>
@@ -98,14 +95,14 @@ export default function Team2() {
                 data-aos-duration={1600}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_2.jpg" alt="LoFiS" />
+                  <img src="/assets/images/team/img_3.jpg" alt="Monteno" />
                   <div className="social">
                     <p>
                       <Link href="#">
-                        <i className="fab fa-twitter" />
+                        <i className="fab fa-telegram" />
                       </Link>
                       <Link href="#">
-                        <i className="fab fa-telegram" />
+                        <i className="fab fa-twitter" />
                       </Link>
                     </p>
                   </div>
@@ -125,14 +122,14 @@ export default function Team2() {
                 data-aos-duration={2000}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_3.jpg" alt="LoFiS" />
+                  <img src="/assets/images/team/img_4.png" alt="Monteno" />
                   <div className="social">
                     <p>
                       <Link href="#">
-                        <i className="fab fa-twitter" />
+                        <i className="fab fa-telegram" />
                       </Link>
                       <Link href="#">
-                        <i className="fab fa-telegram" />
+                        <i className="fab fa-twitter" />
                       </Link>
                     </p>
                   </div>
@@ -154,21 +151,21 @@ export default function Team2() {
                 data-aos-duration={1000}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_4.png" alt="LoFiS" />
+                  <img src="/assets/images/team/img_6.png" alt="Monteno" />
                   <div className="social">
                     <p>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                      <a href="#">
+                      <Link href="#">
                         <i className="fab fa-telegram" />
-                      </a>
+                      </Link>
+                      <Link href="#">
+                        <i className="fab fa-twitter" />
+                      </Link>
                     </p>
                   </div>
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    Liam Parker
+                    Liana Madison
                   </Link>
                   <p className="fs-16">AI & Machine Learning Engineer</p>
                 </div>
@@ -181,21 +178,21 @@ export default function Team2() {
                 data-aos-duration={1200}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_5.png" alt="LoFiS" />
+                  <img src="/assets/images/team/img_7.png" alt="Monteno" />
                   <div className="social">
                     <p>
                       <Link href="#">
-                        <i className="fab fa-twitter" />
+                        <i className="fab fa-telegram" />
                       </Link>
                       <Link href="#">
-                        <i className="fab fa-linkedin-in" />
+                        <i className="fab fa-twitter" />
                       </Link>
                     </p>
                   </div>
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    Olivia Chen
+                    Oliver Chen
                   </Link>
                   <p className="fs-16">Solana Smart Contract Specialist</p>
                 </div>
@@ -208,14 +205,14 @@ export default function Team2() {
                 data-aos-duration={1200}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/ops.jpg" alt="LoFiS" />
+                  <img src="/assets/images/team/img_5.png" alt="Monteno" />
                   <div className="social">
                     <p>
                       <Link href="#">
-                        <i className="fab fa-twitter" />
+                        <i className="fab fa-telegram" />
                       </Link>
                       <Link href="#">
-                        <i className="fab fa-linkedin-in" />
+                        <i className="fab fa-twitter" />
                       </Link>
                     </p>
                   </div>
