@@ -11,11 +11,10 @@ export default function HeroSlider3() {
                     <div className="row">
                         <div className="col-xl-5 col-md-12 col-12">
                             <div className="block-text pt-24">
-                                <h6 className="sub-title mb-6" data-aos="fade-up">To The Moon Coin</h6>
-                                <h2 className="title mb-26" data-aos="fade-up">Let's go to the moon with To The Moon Coin! </h2>
-                                <p className="desc mb-43" data-aos="fade-up"> Meme coins guaranteed </p>
-                                <Link href="/onePage#about" className="btn-action style-2" data-aos="fade-up" data-aos-duration={1200}>Get
-                                    Connected</Link>
+                                <h6 className="sub-title mb-6" data-aos="fade-up">LOFIS, Lofi on Sol</h6>
+                                <h2 className="title mb-26" data-aos="fade-up">LOFIS: An Innovative Token on Solana with a Community Spirit!</h2>
+                                <p className="desc mb-43" data-aos="fade-up">Cauldron of innovation for artists, developers, and blockchain communities.</p>
+                                <Link href="/onePage#about" className="btn-action style-2" data-aos="fade-up" data-aos-duration={1200}>Get Connected</Link>
                             </div>
                         </div>
                         <div className="col-xl-7 col-md-12 col-12">
