@@ -22,11 +22,13 @@ export default function AboutUs3() {
                         <div className="col-xl-5 col-md-12">
                             <div className="block-text pt-12">
                                 <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration={1000}>About Us</h5>
-                                <h3 className="title mb-58" data-aos="fade-up" data-aos-duration={1000}>To The Moon Coin 🚀</h3>
+                                <h3 className="title mb-58" data-aos="fade-up" data-aos-duration={1000}>Lofi On Solana</h3>
                                 <p className="fs-21 mb-33" data-aos="fade-up" data-aos-duration={1000}> The Meme Coin That Shoots for the Stars!</p>
                                 <p className="fs-18 line-h17 mb-41" data-aos="fade-up" data-aos-duration={1000}>
-                                To The Moon Coin isn’t just another meme coin—it’s a movement! Inspired by the legendary phrase “To the Moon,” 
-                                we’re here to take crypto, memes, and space exploration to the next level.</p>
+                                In the ever-evolving world of crypto, community-based tokens are becoming increasingly popular as a form of digital 
+                                innovation and user engagement. LOFIS is a Solana-based token inspired by LOFI but comes with a more dynamic and 
+                                community-oriented concept. Leveraging Solana’s fast and efficient blockchain technology, LOFIS aims to create an 
+                                engaging ecosystem for traders, NFT collectors, and fans of music and digital art.</p>
                             </div>
                         </div>
                     </div>
