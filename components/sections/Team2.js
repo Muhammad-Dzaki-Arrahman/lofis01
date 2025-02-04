@@ -41,26 +41,26 @@ export default function Team2() {
                 data-aos-duration={800}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_1.jpg" alt="Monteno" />
+                  <img src="/assets/images/team/founder.jpg" alt="LoFiS" />
                   <div className="social">
                     <p>
-                      <Link href="#">
-                        <i className="fab fa-facebook-f" />
-                      </Link>
                       <Link href="#">
                         <i className="fab fa-twitter" />
                       </Link>
                       <Link href="#">
                         <i className="fab fa-linkedin-in" />
                       </Link>
+                      <Link href="#">
+                        <i className="fab fa-github" />
+                      </Link>
                     </p>
                   </div>
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    Mike Anderson
+                    Alex Carter
                   </Link>
-                  <p className="fs-16">Founder &amp; CEO</p>
+                  <p className="fs-16">Founder & CEO</p>
                 </div>
               </div>
             </div>
@@ -71,26 +71,23 @@ export default function Team2() {
                 data-aos-duration={1200}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_2.jpg" alt="Monteno" />
+                  <img src="/assets/images/team/img_1.jpg" alt="LoFiS" />
                   <div className="social">
                     <p>
-                      <Link href="#">
-                        <i className="fab fa-facebook-f" />
-                      </Link>
-                      <Link href="#">
+                      <a href="#">
                         <i className="fab fa-twitter" />
-                      </Link>
-                      <Link href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </Link>
+                      </a>
+                      <a href="#">
+                        <i className="fab fa-telegram" />
+                      </a>
                     </p>
                   </div>
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    Paul Harrison
+                    Sophia Martinez
                   </Link>
-                  <p className="fs-16">Founder &amp; CEO</p>
+                  <p className="fs-16">Lead Blockchain Developer</p>
                 </div>
               </div>
             </div>
@@ -101,26 +98,23 @@ export default function Team2() {
                 data-aos-duration={1600}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_3.jpg" alt="Monteno" />
+                  <img src="/assets/images/team/img_2.jpg" alt="LoFiS" />
                   <div className="social">
                     <p>
-                      <Link href="#">
-                        <i className="fab fa-facebook-f" />
-                      </Link>
                       <Link href="#">
                         <i className="fab fa-twitter" />
                       </Link>
                       <Link href="#">
-                        <i className="fab fa-linkedin-in" />
+                        <i className="fab fa-telegram" />
                       </Link>
                     </p>
                   </div>
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    Sarah Jenifer
+                    David Kim
                   </Link>
-                  <p className="fs-16">Founder &amp; CEO</p>
+                  <p className="fs-16">Head of Security & Audits</p>
                 </div>
               </div>
             </div>
@@ -131,26 +125,23 @@ export default function Team2() {
                 data-aos-duration={2000}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_4.png" alt="Monteno" />
+                  <img src="/assets/images/team/img_3.jpg" alt="LoFiS" />
                   <div className="social">
                     <p>
-                      <Link href="#">
-                        <i className="fab fa-facebook-f" />
-                      </Link>
                       <Link href="#">
                         <i className="fab fa-twitter" />
                       </Link>
                       <Link href="#">
-                        <i className="fab fa-linkedin-in" />
+                        <i className="fab fa-telegram" />
                       </Link>
                     </p>
                   </div>
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    James Smith
+                    Emma Wilson
                   </Link>
-                  <p className="fs-16">Founder &amp; CEO</p>
+                  <p className="fs-16">CMO & Community Lead</p>
                 </div>
               </div>
             </div>
@@ -163,26 +154,23 @@ export default function Team2() {
                 data-aos-duration={1000}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_6.png" alt="Monteno" />
+                  <img src="/assets/images/team/img_4.png" alt="LoFiS" />
                   <div className="social">
                     <p>
-                      <Link href="#">
-                        <i className="fab fa-facebook-f" />
-                      </Link>
-                      <Link href="#">
+                      <a href="#">
                         <i className="fab fa-twitter" />
-                      </Link>
-                      <Link href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </Link>
+                      </a>
+                      <a href="#">
+                        <i className="fab fa-telegram" />
+                      </a>
                     </p>
                   </div>
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    Paul Harrison
+                    Liam Parker
                   </Link>
-                  <p className="fs-16">Founder &amp; CEO</p>
+                  <p className="fs-16">AI & Machine Learning Engineer</p>
                 </div>
               </div>
             </div>
@@ -193,12 +181,9 @@ export default function Team2() {
                 data-aos-duration={1200}
               >
                 <div className="img-team">
-                  <img src="/assets/images/team/img_7.png" alt="Monteno" />
+                  <img src="/assets/images/team/img_5.png" alt="LoFiS" />
                   <div className="social">
                     <p>
-                      <Link href="#">
-                        <i className="fab fa-facebook-f" />
-                      </Link>
                       <Link href="#">
                         <i className="fab fa-twitter" />
                       </Link>
@@ -210,9 +195,36 @@ export default function Team2() {
                 </div>
                 <div className="team-info">
                   <Link href="/team" className="h5">
-                    Sarah Jenifer
+                    Olivia Chen
                   </Link>
-                  <p className="fs-16">Founder &amp; CEO</p>
+                  <p className="fs-16">Solana Smart Contract Specialist</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-xl-4 col-md-6">
+              <div
+                className="team-box-2"
+                data-aos="fade-up"
+                data-aos-duration={1200}
+              >
+                <div className="img-team">
+                  <img src="/assets/images/team/ops.jpg" alt="LoFiS" />
+                  <div className="social">
+                    <p>
+                      <Link href="#">
+                        <i className="fab fa-twitter" />
+                      </Link>
+                      <Link href="#">
+                        <i className="fab fa-linkedin-in" />
+                      </Link>
+                    </p>
+                  </div>
+                </div>
+                <div className="team-info">
+                  <Link href="/team" className="h5">
+                    Ethan Wright
+                  </Link>
+                  <p className="fs-16">Operations & Strategy</p>
                 </div>
               </div>
             </div>
