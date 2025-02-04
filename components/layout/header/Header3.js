@@ -21,13 +21,13 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu }) {
                                         <nav id="main-nav" className="main-nav">
                                             <ul id="menu-primary-menu" className="menu">
                                                 <li className="menu-item-has-children">
-                                                    <Link href="/onePage#">Home</Link>
-                                                    {/* <ul className="sub-menu">
-                                                        <li className="menu-item"><Link href="/">Home 01</Link></li>
+                                                    <Link href="/">Home</Link>
+                                                    <ul className="sub-menu">
+                                                        <li className="menu-item"><Link href="/onePage#">OnePage</Link></li>
                                                         <li className="menu-item"><Link href="/home-02">Home 02</Link></li>
-                                                        <li className="menu-item"><Link href="/home-03">Home 03</Link></li>
-                                                        <li className="menu-item current-item"><Link href="/onePage">OnePage</Link></li>
-                                                    </ul> */}
+                                                        {/* <li className="menu-item"><Link href="/home-03">Home 03</Link></li>
+                                                        <li className="menu-item current-item"><Link href="/onePage">OnePage</Link></li> */}
+                                                    </ul>
                                                 </li>
                                                 <li className="menu-item menu-item-has-children">
                                                     <Link href="/onePage#about">About</Link>
