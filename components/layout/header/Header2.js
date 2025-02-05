@@ -46,14 +46,25 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu }) {
                   {/* #main-nav */}
                   <ul className="social">
                     <li>
-                      <Link href="https://web.telegram.org/">
-                        <i className="fab fa-telegram" />
-                      </Link>
+                      <a href="https://web.telegram.org/" target="_blank">
+                        <img
+                          src="/assets/images/telegram.png"
+                          height={22}
+                        ></img>
+                      </a>
                     </li>
                     <li>
-                      <Link href="https://x.com/">
-                        <i className="fab fa-twitter" />
-                      </Link>
+                      <a href="https://x.com/" target="_blank">
+                        <img src="/assets/images/x.png" height={22}></img>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://dexscreener.com/" target="_blank">
+                        <img
+                          src="/assets/images/partners/dex.png"
+                          height={27}
+                        ></img>
+                      </a>
                     </li>
                   </ul>
                   <div className="mobile-button" onClick={handleMobileMenu}>

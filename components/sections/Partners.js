@@ -70,7 +70,7 @@ export default function Partners() {
                       <div className="box-partner">
                         <Link href="#">
                           <img
-                            src="/assets/images/partners/partner1.png"
+                            src="/assets/images/partners/polygon.png"
                             alt="Polygon"
                           />
                         </Link>
@@ -79,7 +79,7 @@ export default function Partners() {
                     <SwiperSlide>
                       <div className="box-partner">
                         <img
-                          src="/assets/images/partners/partner21.png"
+                          src="/assets/images/partners/partner212.png"
                           alt="Solana"
                           width={180}
                         />
@@ -89,7 +89,16 @@ export default function Partners() {
                       <div className="box-partner">
                         <img
                           src="/assets/images/partners/partner3.png"
-                          alt="Ethereum"
+                          alt="Hyperledger"
+                          width={200}
+                        />
+                      </div>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                      <div className="box-partner">
+                        <img
+                          src="/assets/images/partners/partner5.png"
+                          alt="Quantstamp"
                         />
                       </div>
                     </SwiperSlide>
@@ -99,14 +108,6 @@ export default function Partners() {
                           src="/assets/images/partners/partner4.png"
                           alt="Binance"
                           width={180}
-                        />
-                      </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                      <div className="box-partner">
-                        <img
-                          src="/assets/images/partners/partner5.png"
-                          alt="Avalanche"
                         />
                       </div>
                     </SwiperSlide>

@@ -27,7 +27,7 @@ export default function Speciality1() {
                   data-aos="fade-up"
                   data-aos-duration={1000}
                 >
-                  LOFIS Solution for your problems
+                  LOFIS Solution for Your Problems
                 </h3>
                 <p
                   className="fs-21"

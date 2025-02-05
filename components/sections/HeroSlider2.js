@@ -35,7 +35,7 @@ export default function HeroSlider2() {
                   </div>
                   <div className="item bg-2">
                     <img
-                      src="/assets/images/sliders/img_2_bg.png"
+                      src="/assets/images/sliders/3-trnsprn-bg.png"
                       alt="Image"
                     />
                   </div>
@@ -47,7 +47,7 @@ export default function HeroSlider2() {
                   </div>
                   <div className="item bg-1">
                     <img
-                      src="/assets/images/sliders/img_3_bg.png"
+                      src="/assets/images/sliders/img_5_bg.png"
                       alt="Image"
                     />
                   </div>
@@ -59,7 +59,7 @@ export default function HeroSlider2() {
                   </div>
                   <div className="item bg-2">
                     <img
-                      src="/assets/images/sliders/img_6_bg.png"
+                      src="/assets/images/sliders/2-TRNSPRN-bg.png"
                       alt="Image"
                     />
                   </div>

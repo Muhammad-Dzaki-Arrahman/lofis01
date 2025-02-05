@@ -18,15 +18,20 @@ export default function Footer2() {
                   <ul className="social">
                     {/* <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li> */}
                     <li>
-                      <Link href="https://x.com/">
-                        <i className="fab fa-twitter" />
-                      </Link>
+                      <a href="https://x.com/" target="_blank">
+                        <img src="/assets/images/x.png"></img>
+                      </a>
                     </li>
                     {/* <li><Link href="#"><i className="fab fa-linkedin-in" /></Link></li> */}
                     <li>
-                      <Link href="https://web.telegram.org/">
-                        <i className="fab fa-telegram" />
-                      </Link>
+                      <a href="https://telegram.org/" target="_blank">
+                        <img src="/assets/images/telegram.png"></img>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://dexscreener.com/" target="_blank">
+                        <img src="/assets/images/partners/dex.png"></img>
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -40,6 +45,9 @@ export default function Footer2() {
                     </li>
                     <li>
                       <a href="https://x.com/">Twitter</a>
+                    </li>
+                    <li>
+                      <a href="https://dexscreener.com/">DEX Screener</a>
                     </li>
                   </ul>
                 </div>

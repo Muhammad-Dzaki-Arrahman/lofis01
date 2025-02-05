@@ -10,12 +10,18 @@ export default function AboutUs2() {
               <div className="group-image">
                 <div className="left">
                   <div className="item bg-1">
-                    <img src="/assets/images/sliders/img_3.png" alt="Monteno" />
+                    <img
+                      src="/assets/images/sliders/9-trnsprn-bg.png"
+                      alt="Monteno"
+                    />
                   </div>
                 </div>
                 <div className="right">
                   <div className="item bg-2">
-                    <img src="/assets/images/sliders/img_1.png" alt="Monteno" />
+                    <img
+                      src="/assets/images/sliders/10-trnsprn.png"
+                      alt="Monteno"
+                    />
                   </div>
                   <div className="item bg-3">
                     <img src="/assets/images/sliders/img_2.png" alt="Monteno" />
