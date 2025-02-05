@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function AboutUs2() {
   return (
     <>
-      <section className="tf-section section-about">
+      <section id="about" className="tf-section section-about">
         <div className="container">
           <div className="row reverse">
             <div className="col-xl-7 col-md-12">
@@ -37,35 +37,26 @@ export default function AboutUs2() {
                   data-aos="fade-up"
                   data-aos-duration={1000}
                 >
-                  Securing the Future of Solana
+                  Empowering DeFi & Privacy on Solana
                 </h3>
                 <p
                   className="fs-21 mb-33"
                   data-aos="fade-up"
                   data-aos-duration={1000}
                 >
-                  LoFiS is a cutting-edge platform dedicated to smart contract
-                  auditing, ensuring security and transparency in the Solana
-                  ecosystem.
+                  LoFiS is a next-generation Solana-based token designed to
+                  enhance speed, privacy, and financial accessibility in DeFi.
                 </p>
                 <p
                   className="fs-18 line-h17 mb-41"
                   data-aos="fade-up"
                   data-aos-duration={1000}
                 >
-                  By leveraging AI-powered technology, we identify
-                  vulnerabilities, optimize efficiency, and provide in-depth
-                  reports to protect developers and investors. Our mission is to
-                  build a safer, more trustworthy decentralized future.
+                  With low-cost transactions, staking rewards, and innovative
+                  Privacy Bridge technology, we provide a secure, inclusive, and
+                  decentralized financial ecosystem. Join us in revolutionizing
+                  the future of blockchain finance.
                 </p>
-                {/* <Link
-                  href="/about"
-                  className="btn-action style-2"
-                  data-aos="fade-up"
-                  data-aos-duration={1200}
-                >
-                  More About Us
-                </Link> */}
               </div>
             </div>
           </div>

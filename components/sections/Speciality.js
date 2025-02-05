@@ -19,16 +19,11 @@ export default function Speciality() {
                 data-aos="fade-up"
                 data-aos-duration={800}
               >
-                <img
-                  src="/assets/images/icon/img_1.png"
-                  alt="LoFiS"
-                />
-                <Link href="/audit-services" className="h5">
-                  Advanced Security
-                </Link>
+                <img src="/assets/images/icon/img_1.png" alt="LoFiS" />
+                <h5 className="h5">Decentralized Finance</h5>
                 <p>
-                  AI-powered smart contract audits ensure safety and reliability
-                  in the Solana ecosystem.
+                  LOFIS empowers users with inclusive DeFi solutions, staking,
+                  and low-cost transactions.
                 </p>
               </Tilt>
             </div>
@@ -40,12 +35,10 @@ export default function Speciality() {
                 data-aos-duration={1000}
               >
                 <img src="/assets/images/icon/efficiency.png" alt="LoFiS" />
-                <Link href="/audit-services" className="h5">
-                  High Efficiency
-                </Link>
+                <h5 className="h5">Speed & Efficiency</h5>
                 <p>
-                  Optimized audits with rapid execution and minimal transaction
-                  costs on Solana.
+                  Built on Solana, LOFIS ensures fast transactions with minimal
+                  fees for seamless DeFi interactions.
                 </p>
               </Tilt>
             </div>
@@ -56,12 +49,10 @@ export default function Speciality() {
             >
               <Tilt options={options} className="box-item bg-2 s2-m">
                 <img src="/assets/images/icon/trust.png" alt="LoFiS" />
-                <Link href="/audit-services" className="h5">
-                  Transparent Reports
-                </Link>
+                <h5 className="h5">Privacy Bridge</h5>
                 <p>
-                  Comprehensive audit reports with clear insights for developers
-                  and investors.
+                  Secure, private transactions using Zero-Knowledge Proofs for
+                  enhanced user anonymity.
                 </p>
               </Tilt>
             </div>
@@ -72,12 +63,10 @@ export default function Speciality() {
             >
               <Tilt options={options} className="box-item bg-2 s2">
                 <img src="/assets/images/icon/community.png" alt="LoFiS" />
-                <Link href="/community" className="h5">
-                  Strong Community
-                </Link>
+                <h5 className="h5">Engaged Community</h5>
                 <p>
-                  Driven by a passionate community supporting security and
-                  innovation in Solana.
+                  A thriving, collaborative community driving the future of DeFi
+                  and smart contract security.
                 </p>
               </Tilt>
             </div>

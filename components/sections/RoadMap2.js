@@ -29,7 +29,7 @@ const swiperOptions = {
 export default function RoadMap2() {
   return (
     <>
-      <section className="tf-section road-map">
+      <section id="roadmap" className="tf-section road-map">
         <div className="container-fluid">
           <div className="row">
             <div className="col-md-12">
@@ -73,8 +73,9 @@ export default function RoadMap2() {
                           </span>
                           <h5 className="title mb-20">Concept & Ideation</h5>
                           <p className="fs-18">
-                            Laying the foundation for LOFIS, focusing on
-                            security and AI-driven smart contract auditing.
+                            Building the LOFIS ecosystem with a focus on DeFi
+                            innovation, privacy, and fast, low-cost transactions
+                            on Solana.
                           </p>
                         </div>
                         <p className="fs-16 color-main mb-0">Q1 2025</p>
@@ -90,8 +91,9 @@ export default function RoadMap2() {
                             Research & Development
                           </h5>
                           <p className="fs-18">
-                            Conducting deep research on Solana’s security
-                            landscape and developing AI-powered audit protocols.
+                            Exploring DeFi innovations, enhancing transaction
+                            privacy, and optimizing Solana-based staking and
+                            liquidity solutions.
                           </p>
                         </div>
                         <p className="fs-16 color-main mb-0">Q2 2025</p>
@@ -105,9 +107,9 @@ export default function RoadMap2() {
                           </span>
                           <h5 className="title mb-20">Platform Development</h5>
                           <p className="fs-18">
-                            Building and testing the smart contract audit
-                            platform, integrating AI-powered security
-                            assessments.
+                            Developing a fast, low-cost DeFi ecosystem with
+                            staking, liquidity solutions, and Privacy Bridge
+                            integration on Solana.
                           </p>
                         </div>
                         <p className="fs-16 color-main mb-0">Q3 2025</p>
@@ -123,8 +125,9 @@ export default function RoadMap2() {
                             Token Launch & Staking
                           </h5>
                           <p className="fs-18">
-                            Launching the LOFIS token with staking options and
-                            governance mechanisms for community-driven security.
+                            Introducing the LOFIS token with staking rewards,
+                            liquidity incentives, and community-driven
+                            governance on Solana.
                           </p>
                         </div>
                         <p className="fs-16 color-main mb-0">Q4 2025</p>
@@ -138,8 +141,8 @@ export default function RoadMap2() {
                           </span>
                           <h5 className="title mb-20">Ecosystem Expansion</h5>
                           <p className="fs-18">
-                            Expanding partnerships, integrating LOFIS audit
-                            services with top Solana projects, and growing the
+                            Strengthening partnerships, integrating LOFIS into
+                            Solana’s DeFi landscape, and fostering a thriving
                             community.
                           </p>
                         </div>

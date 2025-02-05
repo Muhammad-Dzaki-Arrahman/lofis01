@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Team2() {
   return (
     <>
-      <section className="tf-section team">
+      <section id="team" className="tf-section team">
         <div className="container">
           <div className="row">
             <div className="col-12">

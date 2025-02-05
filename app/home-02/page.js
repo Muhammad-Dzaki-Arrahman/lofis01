@@ -1,7 +1,5 @@
 import Layout from "@/components/layout/Layout";
 import AboutUs2 from "@/components/sections/AboutUs2";
-import Blog2 from "@/components/sections/Blog2";
-import Counter2 from "@/components/sections/Counter2";
 import FAQ2 from "@/components/sections/FAQ2";
 import HeroSlider2 from "@/components/sections/HeroSlider2";
 import Montono2 from "@/components/sections/Montono2";

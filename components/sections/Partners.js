@@ -34,7 +34,30 @@ export default function Partners() {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h2 className="our-partners">Our Partners</h2>
+              <div className="block-text center">
+                <h1
+                  className="heading-bg"
+                  data-aos="fade-in"
+                  data-aos-duration={1000}
+                >
+                  <span>Partner</span>
+                </h1>
+                <h5
+                  className="sub-title mb-10"
+                  data-aos="fade-up"
+                  data-aos-duration={1000}
+                >
+                  Our Partners
+                </h5>
+                <h3
+                  className="title mb-28"
+                  data-aos="fade-up"
+                  data-aos-duration={1000}
+                >
+                  Top Our <br />
+                  Partnerships
+                </h3>
+              </div>
               <div
                 className="partners__body style-2"
                 data-aos="fade-up"
@@ -47,72 +70,44 @@ export default function Partners() {
                       <div className="box-partner">
                         <Link href="#">
                           <img
-                            src="/assets/images/partners/certik.png"
-                            alt="Monteno"
-                            width={300}
-                            height={200}
+                            src="/assets/images/partners/partner1.png"
+                            alt="Polygon"
                           />
                         </Link>
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="box-partner">
-                        <Link href="#">
-                          <img
-                            src="/assets/images/partners/ethereum.png"
-                            alt="Monteno"
-                            width={300}
-                            height={200}
-                          />
-                        </Link>
+                        <img
+                          src="/assets/images/partners/partner21.png"
+                          alt="Solana"
+                          width={180}
+                        />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="box-partner">
-                        <Link href="#">
-                          <img
-                            src="/assets/images/partners/polygon.png"
-                            alt="Monteno"
-                            width={280}
-                            height={80}
-                          />
-                        </Link>
+                        <img
+                          src="/assets/images/partners/partner3.png"
+                          alt="Ethereum"
+                        />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="box-partner">
-                        <Link href="#">
-                          <img
-                            src="/assets/images/partners/solana.png"
-                            alt="Monteno"
-                            width={350}
-                            height={250}
-                          />
-                        </Link>
+                        <img
+                          src="/assets/images/partners/partner4.png"
+                          alt="Binance"
+                          width={180}
+                        />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="box-partner">
-                        <Link href="#">
-                          <img
-                            src="/assets/images/partners/aave.png"
-                            alt="Monteno"
-                            width={220}
-                            height={45}
-                          />
-                        </Link>
-                      </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                      <div className="box-partner">
-                        <Link href="#">
-                          <img
-                            src="/assets/images/partners/openzeppelin.png"
-                            alt="Monteno"
-                            width={260}
-                            height={50}
-                          />
-                        </Link>
+                        <img
+                          src="/assets/images/partners/partner5.png"
+                          alt="Avalanche"
+                        />
                       </div>
                     </SwiperSlide>
                   </Swiper>
